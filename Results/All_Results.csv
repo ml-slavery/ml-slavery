@@ -1,0 +1,19 @@
+,N_features,Model_name,Error
+0,All_features,NMF->LM,0.266
+1,All_features,NMF->DT,0.241
+2,All_features,NMF->DT (MF),0.227
+3,All_features,NMF->RF,0.237
+4,All_features,PLS,0.269
+5,All_features,Lasso,0.248
+6,All_features,DT,0.322
+7,All_features,DT (MF),0.25
+8,All_features,RF,0.246
+9,Theory_features,NMF->LM,0.291
+10,Theory_features,NMF->DT,0.282
+11,Theory_features,NMF->DT (MF),0.232
+12,Theory_features,NMF->RF,0.248
+13,Theory_features,PLS,0.284
+14,Theory_features,Lasso,0.248
+15,Theory_features,DT,0.293
+16,Theory_features,DT (MF),0.228
+17,Theory_features,RF,0.249
