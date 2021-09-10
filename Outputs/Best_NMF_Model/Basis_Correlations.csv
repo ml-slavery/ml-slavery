@@ -1,0 +1,7 @@
+,Democratic Rule,Armed Conflict,Physical Security of Women,Social Inequal. and Discrimination,Access to Resources,Religious and Pol. Freedoms
+Democratic Rule,1.0,-0.1,-0.29,-0.18,-0.06,0.0
+Armed Conflict,-0.1,1.0,0.03,-0.0,-0.29,-0.62
+Physical Security of Women,-0.29,0.03,1.0,-0.16,-0.44,-0.2
+Social Inequal. and Discrimination,-0.18,-0.0,-0.16,1.0,-0.26,-0.28
+Access to Resources,-0.06,-0.29,-0.44,-0.26,1.0,0.01
+Religious and Pol. Freedoms,0.0,-0.62,-0.2,-0.28,0.01,1.0

@@ -1,0 +1,7 @@
+MAE,Model,Features,nmf__alpha,nmf__n_components,nmf__solver,dt__max_depth,dt__min_samples_split,dt__random_state,dt__max_features,rf__max_depth,rf__max_features,rf__min_samples_split,rf__n_estimators,rf__random_state,alpha,random_state,tol,max_depth,max_features,min_samples_split,n_estimators
+0.2272672655393896,NMF->DT (MF),All_features,2.0,6.0,cd,6.0,3.0,45.0,0.3,,,,,,,,,,,,
+0.22808811268096985,DT (MF),Theory_features,,,,,,,,,,,,,,14.0,,5.0,0.3,2.0,
+0.22819203832018256,NMF->DT (MF),All_features,2.0,6.0,cd,5.0,4.0,6.0,0.5,,,,,,,,,,,,
+0.2303174146191629,NMF->DT (MF),All_features,1.0,6.0,cd,4.0,4.0,42.0,0.5,,,,,,,,,,,,
+0.2313330387673167,NMF->DT (MF),All_features,2.0,6.0,cd,4.0,2.0,17.0,0.5,,,,,,,,,,,,
+0.23171785971964545,NMF->DT (MF),Theory_features,2.0,5.0,cd,4.0,4.0,20.0,0.5,,,,,,,,,,,,

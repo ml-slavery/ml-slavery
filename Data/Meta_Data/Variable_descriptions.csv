@@ -1,0 +1,115 @@
+Variable Name,Short Variable Description,Source Extracted from,Cited Original Source,Theory Selected?
+AIDS_death,Number of AIDS-related deaths,UNAIDS,UNAIDS,N
+AIDS_Orph,AIDS orphans (0-17),UNAIDS,UNAIDS,Y
+Armedcon,"Is there the presence of any type of armed conflict? Coded as a dummy variable (i.e., 1 for armed con- flict, 0 for no armed conflict).",Silverman and Landman (2019),Uppsala Conflict Data Project (UCDP) ,Y
+ATMs,"Automated teller machines (per 100,000)",UN's SDGs dataset (2018),IMF Financial Access Survey (2015),Y
+Battle_deaths,Battle-related deaths (log of battle related deaths plus 1),Early Warning Project ,Peace Research Institute Oslo (PRIO) and Uppsala Conflict Data Program (UCDP) ,N
+Broadband,Mobile broadband subscriptions (per 100),UN's SDGs dataset (2018),ITU (2015),Y
+Cereal_yield,Cereal yield (t/ha),UN's SDGs dataset (2018),FAO (2015) ,N
+Child_lab,Child labor (%),UN's SDGs dataset (2018),UNICEF (2015),Y
+Climate_chg_vuln,Climate change vulnerability (0-1),UN's SDGs dataset (2018),The Hague Center for Strategic Studies (2014),Y
+Co2_energy_pc,CO2 emissions from energy (tCO2/capita),UN's SDGs dataset (2018),Ridge National Laboratory (2012),N
+Co2_fuel,CO2 from fuels & electricity (MtCO2/TWh),UN's SDGs dataset (2018),IEA (2015),N
+CPI,Corruption Perception Index (0-100),UN's SDGs dataset (2018),Transparency International (2015),Y
+Democ,Polity type: Democracy,Varieties of Democracy (V-DEM) ,"Center for Systemic Peace, Polity IV Dataset; Transformed by EWP",Y
+Econ_right_F,Women's Economic Rights (0-3),The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Electric_acc,Access to electricity (%),UN's SDGs dataset (2018),World Bank (2016),N
+Ethnic_fract,Ethnic fractionalization: Measures ethnic heterogeneity,Varieties of Democracy (V-DEM) ,Anderson's Ethnic Fractionalization Data,N
+Extrajud_kill,Extrajudicial Killing by government officials without due process of law (0-2),The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+F_parliam,Women in national parliaments (%),UN's SDGs dataset (2018),IPU (2015),N
+F_school,Female years of schooling (% male) ,UN's SDGs dataset (2018),UNDP (2016),Y
+FDI,Foreign direct investment ,Silverman and Landman (2019),World Bank World Development Indicators (2018),N
+Fish_overexploit,Fish stocks overexploited or collapsed (%),UN's SDGs dataset (2018),Hsu et al. (2016) / Sea Around Us (n.d.),N
+Forest_change,Annual change in forest area (%),UN's SDGs dataset (2018),Hsu et al. (2016) / YCELP & CIESIN (n.d.),N
+Free_assem,"Freedom of Assembly and Association. Freedom to associate with other
+persons in political parties, trade unions, cultural organizations, or other special-interest groups (0-2).",The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Free_discuss,Freedom of discussion: Are citizens able to openly discuss political issues in private homes and in public spaces?,Varieties of Democracy (V-DEM) ,Varieties of Democracy (V-DEM) ,Y
+Free_polit,"Electoral Self-Determination. Freedom to associate with other
+persons in political parties, trade unions, cultural organizations, or other special-interest groups (0-2).",The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Free_speech,"Freedom of Speech. The extent to which freedoms of speech and press are affected by
+government censorship, including ownership of media outlets (0-2).",The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Freemv_dom,Freedom of Domestic Movement. This variable indicates citizens’ freedom to travel within their own country (0-2).,The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Freemv_F,"Freedom of movement for women: Are all women able to move freely, in daytime and nighttime, in public thoroughfares, across regions within a country, and to establish permanent residency where they wish?",Varieties of Democracy (V-DEM) ,Varieties of Democracy (V-DEM) ,Y
+Freemv_foreign,Freedom of Foreign Movement. This variable indicates citizens’ freedom to leave and return to their country (0-2).,The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Freemv_M,"Freedom of movement for men: Are all men able to move freely, in daytime and nighttime, in public thoroughfares, across regions within a country, and to establish permanent residency where they wish?",Varieties of Democracy (V-DEM) ,Varieties of Democracy (V-DEM) ,Y
+Freshwater,Freshwater withdrawal (%),UN's SDGs dataset (2018),FAO (2015),N
+Fuel_acc,Access to non-solid fuels (%),UN's SDGs dataset (2018),SE4All (2016),N
+GDPpc,Gross development product per capita,Silverman and Landman (2019),World Bank World Development Indicators (2018),Y
+GDPpc_growth,Annual % change in GDP per capita,Varieties of Democracy (V-DEM) ,World Bank World Development Indicators (2018),N
+Gender_equal,Government framework for gender equality,Woman Stats Project,Woman Stats Project,Y
+Gov_efficien,Government efficiency (1-7),UN's SDGs dataset (2018),WEF (2015),N
+Growth_rate,Adjusted growth rate (%),UN's SDGs dataset (2018),OECD (2016),N
+Homicides,"Homicides (per 100,000)",UN's SDGs dataset (2018),UNODC (2014),N
+Indep_judic,"Independence of the Judiciary. Indicates the extent to which the judiciary is independent of control from other
+sources, such as another branch of the government or the military (0-2).",The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Inequality,Gini index (0-100),UN's SDGs dataset (2018),"World Bank (2016), OECD (2016)",N
+Infant_mort,Under 5 mortality (per 1000 live births) ,UN's SDGs dataset (2018),World Bank (2016),N
+Infant_vaccines,Infants who receive 2 WHO vaccines (%),UN's SDGs dataset (2018),WHO and UNICEF (2016),N
+Infrastruct,Quality of overall infrastructure (1-7),UN's SDGs dataset (2018),WEF (2015),Y
+Internet_use,Internet use (%),UN's SDGs dataset (2018),ITU (2015),Y
+KOF_Globalis,KOF Globalisation Score,Silverman and Landman (2019),Gygli et al. (2019),Y
+Lack_contraception,Unmet demand for contraceptives (%),UN's SDGs dataset (2018),WHO (2016c),N
+Life_expect,Healthy life expectancy at birth (years) ,UN's SDGs dataset (2018),WHO (2016a) ,N
+Literacy_15_24yrs,Literacy rate of 15-24 year olds (%),UN's SDGs dataset (2018),UNESCO (2016) ,Y
+M_school,Female labor force participation (% male) ,UN's SDGs dataset (2018),ILO (2016),N
+Masskill_ever,Any mass killing ever,Early Warning Project ,Early Warning Project ,N
+Masskill_ongo,Any ongoing mass killing ,Early Warning Project ,Early Warning Project ,N
+Maternal_mort,"Maternal mortality (per 100,000 live births) ",UN's SDGs dataset (2018),WHO et al. (2015),Y
+Minority_rule,Minority control: Does a minority control political rule?,Early Warning Project ,Political Instaibility Task Force (PITF),Y
+Neonatal_mort,Neonatal mortality (per 1000 live births) ,UN's SDGs dataset (2018),WHO et al. (2015),Y
+Ocean_biodiv,Ocean Health Index - Biodiversity (0-100),UN's SDGs dataset (2018),Ocean Health Index (2015),N
+Ocean_clean,Ocean Health Index - Clean waters (0-100),UN's SDGs dataset (2018),Ocean Health Index (2015),N
+Ocean_fisheries,Ocean Health Index - Fisheries (0-100),UN's SDGs dataset (2018),Ocean Health Index (2015),N
+Ocean_protect,Marine sites completely protected (%),UN's SDGs dataset (2018),"BirdLife International, IUCN and UNEP-WCMC (2016)",N
+Party_ban,Party ban: Are any parties banned?,Varieties of Democracy (V-DEM) ,Varieties of Democracy (V-DEM) ,N
+Phys_secF,The physical security of women,Woman Stats Project,Woman Stats Project,Y
+Physrights_indx,"Physical Integrity Rights Index. An additive index constructed from the Torture, Extrajudicial Killing, Political
+Imprisonment, and Disappearance indicators (0-8).",The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Piped_water,"Improved water source, piped (%)",UN's SDGs dataset (2018),WHO & UNICEF (2016),N
+Pol_cand_restr,"Restrictions on candidates: Are all groups (ethnicity, race, religion, or language) allowed to run for political positions?",Varieties of Democracy (V-DEM) ,Varieties of Democracy (V-DEM) ,N
+Pol_impris,"Political Imprisonment. Incarceration of people by government officials because of: speech; opposition to government; religious
+beliefs; or their membership in a group (0-2).",The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Pol_right_F,Women’s Political Rights. Women’s political rights include a number of internationally recognized rights (0-3).,The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Pol_terror,A mean of Physical Integrity Rights - Political Terror Scale (Amnesty) and Physical Integrity Rights - Political Terror Scale (US State Department) ,Silverman and Landman (2019),Political Terror Scale (Amnesty) and Political Terror Scale (US State Department),N
+Polkill_apprvd,"Do political killings occur? Political killings are killings by the state or its agents without due process of law for the purpose of eliminating political opponents. These killings are the result of deliberate use of lethal force by the police, security forces, prison officials, or other agents of the state (including paramilitary groups).",Varieties of Democracy (V-DEM) ,Varieties of Democracy (V-DEM) ,N
+Polrights_indx,"Empowerment Rights Index. An additive index constructed from the Freedom of Movement, Freedom of Speech,
+Workers’ Rights, Political Participation, and Freedom of Religion indicators (0-10).",The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Pop_dens,Population density,The World Bank ,The World Bank ,N
+Poverty,% at $1.90 a day (`poverty headcount ratio'),UN's SDGs dataset (2018),World Bank (2016).,Y
+Primary_school,Net primary school enrolment rate (%),UN's SDGs dataset (2018),UNESCO (2016),N
+Prison_pop,"Prison population (per 100,000)",UN's SDGs dataset (2018),ICPS (2014),N
+Property_rights,Property rights (1-7),UN's SDGs dataset (2018),WEF (2015),N
+Rape_compl,A multi-faceted scale encompassing both the laws on rape and prevalence ,Woman Stats Project,Woman Stats Project,N
+Rape_enclave,Whether enclaves of high rape exists such as refugee camps ,Woman Stats Project,Woman Stats Project,Y
+Rape_prev,The prevalence of rape ,Woman Stats Project,Woman Stats Project,N
+Rape_report,Taboo and security for wonen reporting rape,Woman Stats Project,Woman Stats Project,Y
+Regist_birth,Registered births (%),UN's SDGs dataset (2018),UNICEF (2013),N
+Relig_freeCIRI,"Freedom of Religion. The extent to which the freedom of citizens to exercise and practice their
+religious beliefs is subject to actual government restrictions (0-1).",The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Relig_freeMK,Freedom of religion: Is there freedom of religion?,Varieties of Democracy (V-DEM) ,Varieties of Democracy (V-DEM) ,N
+Rural_population,Rural population,The World Bank ,The World Bank ,N
+Safe_night,Feel safe walking at night (%),UN's SDGs dataset (2018),Gallup (2015),N
+Sanitation,Access to improved sanitation (%),UN's SDGs dataset (2018),WHO and UNICEF (2016),N
+Sexwrk_condom,Condom use among sex workers,UNAIDS,UNAIDS,Y
+Sexwrk_HIV,"Percentage of sex workers living with HIV. For the full definition, please see indicator 3.3 in the Global AIDS Monitoring 2019 Guidelines. ",UNAIDS,UNAIDS,N
+Sexwrk_size,Sex workers: Size estimate,UNAIDS,UNAIDS,N
+Sexwrk_Syphilis,Active syphilis among sex workers,UNAIDS,UNAIDS,Y
+Soc_powerdist,Power distributed by social group: Is political power distributed according to social groups?,Varieties of Democracy (V-DEM) ,"Varieties of Democracy (V-DEM), Pemstein et al. (2019, V-Dem Working Paper Series 2019:21)",Y
+Social_ineq,"Inequality in civil liberties by social group: Do some social groups (as distinguished by language, ethnicity, religion, race, region, or caste) have fewer civil liberties than others?",Varieties of Democracy (V-DEM) ,Varieties of Democracy (V-DEM) ,N
+Species_survival,Red List Index of species survival (0-1),UN's SDGs dataset (2018),IUCN and BirdLife International (2016),N
+Stunting_u5s,"Prevalence of stunting, under- 5s (%)",UN's SDGs dataset (2018),"UNICEF, WHO & WB (2015). ",Y
+Terrestrial_protect,"Terrestrial sites, completely protected (%)",UN's SDGs dataset (2018),"BirdLife International, IUCN and UNEP-WCMC (2016)",N
+Torture,Torture by government officials or by private individuals at the instigation of government officials (0-2),The Cingranelli-Richards (CIRI) Human Rights Dataset ,The Cingranelli-Richards (CIRI) Human Rights Dataset ,N
+Trade_open,Trade openness,Silverman and Landman (2019),World Bank World Development Indicators (2018),Y
+Trade_openMK,Tradeshare in combined. Trade openness (log): Trade as percentage of Gross Domestic Product (GDP).,Early Warning Project ,"World Bank, World Development Indicators ",N
+Treated_waste,Wastewater treated (%),UN's SDGs dataset (2018),Malik (2013) & OECD (2015),N
+Tuberculosis,"Incidence of tuberculosis (per 100,000) ",UN's SDGs dataset (2018),WHO (2016a),N
+Undernourish,Prevalence of undernourishment (%),UN's SDGs dataset (2018),FAO (2015) ,Y
+Unemploy,Unemployment rate (%),UN's SDGs dataset (2018),ILO (2016),Y
+Urban_population,Urban population,The World Bank ,The World Bank ,N
+VDEM_Libdem,Level of liberal democracy 2016. ,Silverman and Landman (2019),"Varieties of Democracy Project (V-DEM) (see Coppedge, Lindberg, & Skaaning, 2015)",N
+Wasting_u5s,"Prevalence of wasting, under- 5s (%) ",UN's SDGs dataset (2018),"UNICEF, WHO & WB (2015)",Y
+Water_acc,Access to improved water (%),UN's SDGs dataset (2018),WHO and UNICEF (2016),N
+Wellbeing,Subjective wellbeing (0-10) ,UN's SDGs dataset (2018),Helliwel et al. (2015) ,N
+Work_rightCIRI,"Workers rights (0-2): a minimum age for the employment of children; and acceptable conditions of work with respect to minimum wages, hours of work, compulsory labour, and occupational safety and health.",Silverman and Landman (2019),The Cingranelli-Richards (CIRI) Human Rights Dataset ,Y
+Yrs_of_school,Expected years of schooling (years) ,UN's SDGs dataset (2018),UNESCO (2016),N

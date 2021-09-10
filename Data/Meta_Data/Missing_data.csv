@@ -1,0 +1,433 @@
+,Country,UNCode,Data_year,Missing_data,Missing_perc
+0,Afghanistan,4,2016,11,10
+1,Afghanistan,4,2018,11,10
+2,Albania,8,2016,5,5
+3,Albania,8,2018,5,5
+4,Algeria,12,2016,2,2
+5,Algeria,12,2018,2,2
+6,American Samoa,16,2016,100,94
+7,American Samoa,16,2018,100,94
+8,Andorra,20,2016,88,83
+9,Andorra,20,2018,88,83
+10,Angola,24,2016,4,4
+11,Angola,24,2018,4,4
+12,Antigua and Barbuda,28,2016,87,82
+13,Antigua and Barbuda,28,2018,87,82
+14,Azerbaijan,31,2016,8,8
+15,Azerbaijan,31,2018,8,8
+16,Argentina,32,2016,1,1
+17,Argentina,32,2018,1,1
+18,Australia,36,2016,4,4
+19,Australia,36,2018,4,4
+20,Austria,40,2016,12,11
+21,Austria,40,2018,12,11
+22,Bahamas,44,2016,83,78
+23,Bahamas,44,2018,83,78
+24,Bahrain,48,2016,41,39
+25,Bahrain,48,2018,41,39
+26,Bangladesh,50,2016,0,0
+27,Bangladesh,50,2018,0,0
+28,Armenia,51,2016,6,6
+29,Armenia,51,2018,6,6
+30,Barbados,52,2016,56,53
+31,Barbados,52,2018,56,53
+32,Belgium,56,2016,7,7
+33,Belgium,56,2018,7,7
+34,Bermuda,60,2016,100,94
+35,Bermuda,60,2018,100,94
+36,Bhutan,64,2016,78,74
+37,Bhutan,64,2018,78,74
+38,Bolivia,68,2016,11,10
+39,Bolivia,68,2018,11,10
+40,Bosnia and Herzegovina,70,2016,9,8
+41,Bosnia and Herzegovina,70,2018,9,8
+42,Botswana,72,2016,6,6
+43,Botswana,72,2018,6,6
+44,Brazil,76,2016,1,1
+45,Brazil,76,2018,1,1
+46,Belize,84,2016,79,75
+47,Belize,84,2018,79,75
+48,Solomon Islands,90,2016,82,77
+49,Solomon Islands,90,2018,82,77
+50,British Virgin Islands,92,2016,102,96
+51,British Virgin Islands,92,2018,102,96
+52,Brunei Darussalam,96,2016,66,62
+53,Brunei Darussalam,96,2018,66,62
+54,Bulgaria,100,2016,3,3
+55,Bulgaria,100,2018,3,3
+56,Myanmar,104,2016,8,8
+57,Myanmar,104,2018,8,8
+58,Burundi,108,2016,9,8
+59,Burundi,108,2018,9,8
+60,Belarus,112,2016,10,9
+61,Belarus,112,2018,10,9
+62,Cambodia,116,2016,1,1
+63,Cambodia,116,2018,1,1
+64,Cameroon,120,2016,2,2
+65,Cameroon,120,2018,2,2
+66,Canada,124,2016,7,7
+67,Canada,124,2018,7,7
+68,Cabo Verde,132,2016,26,25
+69,Cabo Verde,132,2018,26,25
+70,Cayman Islands,136,2016,99,93
+71,Cayman Islands,136,2018,99,93
+72,Central African Republic,140,2016,18,17
+73,Central African Republic,140,2018,18,17
+74,Sri Lanka,144,2016,1,1
+75,Sri Lanka,144,2018,1,1
+76,Chad,148,2016,9,8
+77,Chad,148,2018,9,8
+78,Chile,152,2016,1,1
+79,Chile,152,2018,1,1
+80,China,156,2016,7,7
+81,China,156,2018,7,7
+82,Colombia,170,2016,1,1
+83,Colombia,170,2018,1,1
+84,Comoros,174,2016,81,76
+85,Comoros,174,2018,81,76
+86,Congo Republic,178,2016,7,7
+87,Congo Republic,178,2018,7,7
+88,DR Congo,180,2016,13,12
+89,DR Congo,180,2018,13,12
+90,Costa Rica,188,2016,2,2
+91,Costa Rica,188,2018,2,2
+92,Croatia,191,2016,6,6
+93,Croatia,191,2018,6,6
+94,Cuba,192,2016,41,39
+95,Cuba,192,2018,41,39
+96,Cyprus,196,2016,8,8
+97,Cyprus,196,2018,8,8
+98,Czech Republic,203,2016,8,8
+99,Czech Republic,203,2018,8,8
+100,Benin,204,2016,3,3
+101,Benin,204,2018,3,3
+102,Denmark,208,2016,6,6
+103,Denmark,208,2018,6,6
+104,Dominica,212,2016,90,85
+105,Dominica,212,2018,90,85
+106,Dominican Republic,214,2016,0,0
+107,Dominican Republic,214,2018,0,0
+108,Ecuador,218,2016,2,2
+109,Ecuador,218,2018,2,2
+110,El Salvador,222,2016,0,0
+111,El Salvador,222,2018,0,0
+112,Equatorial Guinea,226,2016,42,40
+113,Equatorial Guinea,226,2018,42,40
+114,Ethiopia,231,2016,6,6
+115,Ethiopia,231,2018,6,6
+116,Eritrea,232,2016,48,45
+117,Eritrea,232,2018,48,45
+118,Estonia,233,2016,2,2
+119,Estonia,233,2018,2,2
+120,Faeroe Islands,234,2016,99,93
+121,Faeroe Islands,234,2018,99,93
+122,Fiji,242,2016,85,80
+123,Fiji,242,2018,85,80
+124,Finland,246,2016,4,4
+125,Finland,246,2018,4,4
+126,France,250,2016,5,5
+127,France,250,2018,5,5
+128,French Polynesia,258,2016,102,96
+129,French Polynesia,258,2018,102,96
+130,Djibouti,262,2016,38,36
+131,Djibouti,262,2018,38,36
+132,Gabon,266,2016,2,2
+133,Gabon,266,2018,2,2
+134,Georgia,268,2016,3,3
+135,Georgia,268,2018,3,3
+136,Gambia,270,2016,5,5
+137,Gambia,270,2018,5,5
+138,Palestine,275,2016,96,91
+139,Palestine,275,2018,96,91
+140,Germany,276,2016,3,3
+141,Germany,276,2018,3,3
+142,Ghana,288,2016,2,2
+143,Ghana,288,2018,2,2
+144,Gibraltar,292,2016,102,96
+145,Gibraltar,292,2018,102,96
+146,Kiribati,296,2016,88,83
+147,Kiribati,296,2018,88,83
+148,Greece,300,2016,5,5
+149,Greece,300,2018,5,5
+150,Greenland,304,2016,100,94
+151,Greenland,304,2018,100,94
+152,Grenada,308,2016,88,83
+153,Grenada,308,2018,88,83
+154,Guam,316,2016,100,94
+155,Guam,316,2018,100,94
+156,Guatemala,320,2016,0,0
+157,Guatemala,320,2018,0,0
+158,Guinea,324,2016,2,2
+159,Guinea,324,2018,2,2
+160,Guyana,328,2016,7,7
+161,Guyana,328,2018,7,7
+162,Haiti,332,2016,2,2
+163,Haiti,332,2018,2,2
+164,Honduras,340,2016,0,0
+165,Honduras,340,2018,0,0
+166,Hong Kong,344,2016,97,92
+167,Hong Kong,344,2018,97,92
+168,Hungary,348,2016,10,9
+169,Hungary,348,2018,10,9
+170,Iceland,352,2016,26,25
+171,Iceland,352,2018,26,25
+172,India,356,2016,2,2
+173,India,356,2018,2,2
+174,Indonesia,360,2016,1,1
+175,Indonesia,360,2018,1,1
+176,Iran,364,2016,7,7
+177,Iran,364,2018,7,7
+178,Iraq,368,2016,12,11
+179,Iraq,368,2018,12,11
+180,Ireland,372,2016,3,3
+181,Ireland,372,2018,3,3
+182,Israel,376,2016,6,6
+183,Israel,376,2018,6,6
+184,Italy,380,2016,4,4
+185,Italy,380,2018,4,4
+186,Cote d'Ivoire,384,2016,8,8
+187,Cote d'Ivoire,384,2018,8,8
+188,Jamaica,388,2016,3,3
+189,Jamaica,388,2018,3,3
+190,Japan,392,2016,5,5
+191,Japan,392,2018,5,5
+192,Kazakhstan,398,2016,7,7
+193,Kazakhstan,398,2018,7,7
+194,Jordan,400,2016,6,6
+195,Jordan,400,2018,6,6
+196,Kenya,404,2016,2,2
+197,Kenya,404,2018,2,2
+198,North Korea,408,2016,55,52
+199,North Korea,408,2018,55,52
+200,South Korea,410,2016,13,12
+201,South Korea,410,2018,13,12
+202,Kuwait,414,2016,11,10
+203,Kuwait,414,2018,11,10
+204,Kyrgyz Republic,417,2016,6,6
+205,Kyrgyz Republic,417,2018,6,6
+206,Laos,418,2016,13,12
+207,Laos,418,2018,13,12
+208,Lebanon,422,2016,4,4
+209,Lebanon,422,2018,4,4
+210,Lesotho,426,2016,6,6
+211,Lesotho,426,2018,6,6
+212,Latvia,428,2016,5,5
+213,Latvia,428,2018,5,5
+214,Liberia,430,2016,2,2
+215,Liberia,430,2018,2,2
+216,Libya,434,2016,42,40
+217,Libya,434,2018,42,40
+218,Liechtenstein,438,2016,90,85
+219,Liechtenstein,438,2018,90,85
+220,Lithuania,440,2016,6,6
+221,Lithuania,440,2018,6,6
+222,Luxembourg,442,2016,29,27
+223,Luxembourg,442,2018,29,27
+224,Macao,446,2016,98,92
+225,Macao,446,2018,98,92
+226,Madagascar,450,2016,1,1
+227,Madagascar,450,2018,1,1
+228,Malawi,454,2016,6,6
+229,Malawi,454,2018,6,6
+230,Malaysia,458,2016,2,2
+231,Malaysia,458,2018,2,2
+232,Maldives,462,2016,82,77
+233,Maldives,462,2018,82,77
+234,Mali,466,2016,7,7
+235,Mali,466,2018,7,7
+236,Malta,470,2016,78,74
+237,Malta,470,2018,78,74
+238,Mauritania,478,2016,2,2
+239,Mauritania,478,2018,2,2
+240,Mauritius,480,2016,6,6
+241,Mauritius,480,2018,6,6
+242,Mexico,484,2016,1,1
+243,Mexico,484,2018,1,1
+244,Monaco,492,2016,89,84
+245,Monaco,492,2018,89,84
+246,Mongolia,496,2016,6,6
+247,Mongolia,496,2018,6,6
+248,Moldova,498,2016,12,11
+249,Moldova,498,2018,12,11
+250,Montenegro,499,2016,6,6
+251,Montenegro,499,2018,6,6
+252,Morocco,504,2016,1,1
+253,Morocco,504,2018,1,1
+254,Mozambique,508,2016,3,3
+255,Mozambique,508,2018,3,3
+256,Oman,512,2016,11,10
+257,Oman,512,2018,11,10
+258,Namibia,516,2016,4,4
+259,Namibia,516,2018,4,4
+260,Nauru,520,2016,88,83
+261,Nauru,520,2018,88,83
+262,Nepal,524,2016,5,5
+263,Nepal,524,2018,5,5
+264,Netherlands,528,2016,3,3
+265,Netherlands,528,2018,3,3
+266,Curacao,531,2016,100,94
+267,Curacao,531,2018,100,94
+268,Aruba,533,2016,98,92
+269,Aruba,533,2018,98,92
+270,Sint Maarten,534,2016,101,95
+271,Sint Maarten,534,2018,101,95
+272,New Caledonia,540,2016,102,96
+273,New Caledonia,540,2018,102,96
+274,Vanuatu,548,2016,83,78
+275,Vanuatu,548,2018,83,78
+276,New Zealand,554,2016,5,5
+277,New Zealand,554,2018,5,5
+278,Nicaragua,558,2016,0,0
+279,Nicaragua,558,2018,0,0
+280,Niger,562,2016,10,9
+281,Niger,562,2018,10,9
+282,Nigeria,566,2016,3,3
+283,Nigeria,566,2018,3,3
+284,Norway,578,2016,6,6
+285,Norway,578,2018,6,6
+286,Northern Mariana Islands,580,2016,100,94
+287,Northern Mariana Islands,580,2018,100,94
+288,"Micronesia, Fed. Sts.",583,2016,91,86
+289,"Micronesia, Fed. Sts.",583,2018,91,86
+290,Marshall Islands,584,2016,90,85
+291,Marshall Islands,584,2018,90,85
+292,Palau,585,2016,93,88
+293,Palau,585,2018,93,88
+294,Pakistan,586,2016,2,2
+295,Pakistan,586,2018,2,2
+296,Panama,591,2016,0,0
+297,Panama,591,2018,0,0
+298,Papua New Guinea,598,2016,41,39
+299,Papua New Guinea,598,2018,41,39
+300,Paraguay,600,2016,5,5
+301,Paraguay,600,2018,5,5
+302,Peru,604,2016,0,0
+303,Peru,604,2018,0,0
+304,Philippines,608,2016,0,0
+305,Philippines,608,2018,0,0
+306,Poland,616,2016,6,6
+307,Poland,616,2018,6,6
+308,Portugal,620,2016,2,2
+309,Portugal,620,2018,2,2
+310,Guinea-Bissau,624,2016,38,36
+311,Guinea-Bissau,624,2018,38,36
+312,Timor-Leste,626,2016,45,42
+313,Timor-Leste,626,2018,45,42
+314,Puerto Rico,630,2016,98,92
+315,Puerto Rico,630,2018,98,92
+316,Qatar,634,2016,8,8
+317,Qatar,634,2018,8,8
+318,Romania,642,2016,5,5
+319,Romania,642,2018,5,5
+320,Russia,643,2016,14,13
+321,Russia,643,2018,14,13
+322,Rwanda,646,2016,6,6
+323,Rwanda,646,2018,6,6
+324,St. Kitts and Nevis,659,2016,88,83
+325,St. Kitts and Nevis,659,2018,88,83
+326,St. Lucia,662,2016,82,77
+327,St. Lucia,662,2018,82,77
+328,Saint-Martin,663,2016,104,98
+329,Saint-Martin,663,2018,104,98
+330,St. Vincent and the Grenadines,670,2016,87,82
+331,St. Vincent and the Grenadines,670,2018,87,82
+332,San Marino,674,2016,88,83
+333,San Marino,674,2018,88,83
+334,Sao Tome and Principe,678,2016,82,77
+335,Sao Tome and Principe,678,2018,82,77
+336,Saudi Arabia,682,2016,11,10
+337,Saudi Arabia,682,2018,11,10
+338,Senegal,686,2016,0,0
+339,Senegal,686,2018,0,0
+340,Serbia,688,2016,7,7
+341,Serbia,688,2018,7,7
+342,Seychelles,690,2016,83,78
+343,Seychelles,690,2018,83,78
+344,Sierra Leone,694,2016,4,4
+345,Sierra Leone,694,2018,4,4
+346,Singapore,702,2016,6,6
+347,Singapore,702,2018,6,6
+348,Slovakia,703,2016,11,10
+349,Slovakia,703,2018,11,10
+350,Vietnam,704,2016,6,6
+351,Vietnam,704,2018,6,6
+352,Slovenia,705,2016,6,6
+353,Slovenia,705,2018,6,6
+354,Somalia,706,2016,39,37
+355,Somalia,706,2018,39,37
+356,South Africa,710,2016,2,2
+357,South Africa,710,2018,2,2
+358,Zimbabwe,716,2016,7,7
+359,Zimbabwe,716,2018,7,7
+360,Spain,724,2016,2,2
+361,Spain,724,2018,2,2
+362,South Sudan,728,2016,43,41
+363,South Sudan,728,2018,43,41
+364,Sudan,729,2016,36,34
+365,Sudan,729,2018,36,34
+366,Western Sahara,732,2016,104,98
+367,Western Sahara,732,2018,104,98
+368,Suriname,740,2016,22,21
+369,Suriname,740,2018,22,21
+370,Eswatini,748,2016,8,8
+371,Eswatini,748,2018,8,8
+372,Sweden,752,2016,8,8
+373,Sweden,752,2018,8,8
+374,Switzerland,756,2016,11,10
+375,Switzerland,756,2018,11,10
+376,Syria,760,2016,47,44
+377,Syria,760,2018,47,44
+378,Tajikistan,762,2016,6,6
+379,Tajikistan,762,2018,6,6
+380,Thailand,764,2016,1,1
+381,Thailand,764,2018,1,1
+382,Togo,768,2016,8,8
+383,Togo,768,2018,8,8
+384,Tonga,776,2016,85,80
+385,Tonga,776,2018,85,80
+386,Trinidad and Tobago,780,2016,14,13
+387,Trinidad and Tobago,780,2018,14,13
+388,United Arab Emirates,784,2016,12,11
+389,United Arab Emirates,784,2018,12,11
+390,Tunisia,788,2016,2,2
+391,Tunisia,788,2018,2,2
+392,Turkey,792,2016,6,6
+393,Turkey,792,2018,6,6
+394,Turkmenistan,795,2016,42,40
+395,Turkmenistan,795,2018,42,40
+396,Turks and Caicos Islands,796,2016,100,94
+397,Turks and Caicos Islands,796,2018,100,94
+398,Tuvalu,798,2016,91,86
+399,Tuvalu,798,2018,91,86
+400,Uganda,800,2016,7,7
+401,Uganda,800,2018,7,7
+402,Ukraine,804,2016,0,0
+403,Ukraine,804,2018,0,0
+404,Macedonia,807,2016,12,11
+405,Macedonia,807,2018,12,11
+406,Egypt,818,2016,1,1
+407,Egypt,818,2018,1,1
+408,United Kingdom,826,2016,7,7
+409,United Kingdom,826,2018,7,7
+410,Isle of Man,833,2016,101,95
+411,Isle of Man,833,2018,101,95
+412,Tanzania,834,2016,6,6
+413,Tanzania,834,2018,6,6
+414,United States,840,2016,7,7
+415,United States,840,2018,7,7
+416,United States Virgin Islands,850,2016,100,94
+417,United States Virgin Islands,850,2018,100,94
+418,Burkina Faso,854,2016,11,10
+419,Burkina Faso,854,2018,11,10
+420,Uruguay,858,2016,0,0
+421,Uruguay,858,2018,0,0
+422,Uzbekistan,860,2016,37,35
+423,Uzbekistan,860,2018,37,35
+424,Venezuela,862,2016,13,12
+425,Venezuela,862,2018,13,12
+426,Samoa,882,2016,87,82
+427,Samoa,882,2018,87,82
+428,Yemen,887,2016,5,5
+429,Yemen,887,2018,5,5
+430,Zambia,894,2016,5,5
+431,Zambia,894,2018,5,5
